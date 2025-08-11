@@ -50,7 +50,7 @@ export default function Tentang() {
           <h2 className="text-3xl font-bold text-center text-gray-900 mb-8">Misi Kami</h2>
           <div className="max-w-4xl mx-auto text-center text-gray-700 text-lg">
             <p className="mb-6">
-              "Membantu UMKM Indonesia tumbuh di era digital melalui strategi pemasaran yang inovatif, kreativitas tanpa batas, dan eksekusi yang tepat sasaran."
+              &quot;Membantu UMKM Indonesia tumbuh di era digital melalui strategi pemasaran yang inovatif, kreativitas tanpa batas, dan eksekusi yang tepat sasaran.&quot;
             </p>
             <p>
               Bersama Fortus Media, mari wujudkan pertumbuhan bisnis yang berkelanjutan dan berdaya saing tinggi.
