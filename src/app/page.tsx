@@ -60,7 +60,7 @@ export default function Home() {
             Deep Look
           </h1>
           <p className='mt-4 md:mt-6 text-white font-medium text-lg md:text-xl'>
-            Dive deeper into your brand's story with our innovative touch
+            Dive deeper into your brand&apos;s story with our innovative touch
           </p>
         </div>
 
